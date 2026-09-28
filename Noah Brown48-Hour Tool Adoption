@@ -1,0 +1,91 @@
+# 48-Hour Tool Adoption Challenge
+
+## Building Adaptability in the Age of AI
+
+## Step 1 — Choose Your Tool
+
+**Tool I am using:** Codex connected to Roblox Studio
+
+**Date/Time I am starting my 48 hours:** Sep 24 2026 4:30 PM
+**Date/Time my 48 hours ends:** Sep 26 2026: 4:30 PM
+
+I chose Codex because I had never used it before in Roblox Studio. I connected it directly to Roblox Studio so I could describe what I wanted in normal language and have Codex help create and modify things inside the game.
+
+---
+
+## Step 2 — Set Your Goal
+
+**My Goal:**
+
+> My goal was to use Codex connected to Roblox Studio to create a working questline and expand the systems in my Roblox game, Critter Catcher.
+
+---
+
+## Step 3 — Learn the Tool
+
+### Journal Entry 1 — Shortly After Starting
+
+**What I tried:**  
+I connected Codex to Roblox Studio and started describing the kind of game I wanted to make. The game is called Critter Catcher, and the main idea is that players use different nets to catch animals that spawn around the map. Instead of manually trying to build every system myself, I explained what I wanted Codex to create and watched how it modeled and added things into the game.
+
+**What was confusing or frustrating:**  
+The most confusing part at first was figuring out how specific I needed to be. Sometimes I would describe a feature in a way that made sense in my head, but Codex would build it differently than I imagined. I also had to think about how all of the game systems were supposed to connect together instead of only thinking about one feature at a time.
+
+**What helped:**  
+What helped the most was giving Codex more detailed instructions and correcting it when something was not what I wanted. Instead of only saying something like "make animals spawn," I learned to explain limits, rarity chances, weights, prices, and where the animals should spawn.
+
+**How I felt:**  
+At first I was surprised by how much Codex could do directly inside Roblox Studio. It was exciting, but it was also a little overwhelming because I realized that I still had to think carefully about the game design even though the AI was doing a lot of the technical work.
+
+---
+
+### Journal Entry 2 — Partway Through
+
+**What I tried:**  
+I worked on the main systems for Critter Catcher. Animals can spawn with different rarity levels including common, uncommon, rare, epic, legendary, and mythic. I also set limits on how many critters can exist in an area at one time. For example, the forest biome can have up to 80 critters spawned at once. Each animal can also have a random weight, and each animal type has a specific selling price per pound.
+
+I also worked on the progression systems. Players use nets that get more expensive and are needed to catch rarer animals. Players also have an inventory system that uses jars, and better jars allow the player to store more animals or larger animals.
+
+**What was confusing or frustrating:**  
+One difficult part was making sure the different systems worked together logically. The rarity system, weight system, inventory size, nets, jars, and selling system all affect each other. Sometimes changing one part of the game meant I needed to change another part so the progression still made sense.
+
+**What helped:**  
+Breaking the game into individual systems helped a lot. I would focus on one feature at a time, explain exactly what I wanted Codex to change, test it in Roblox Studio, and then move on once it worked. I also started giving Codex specific numbers and rules instead of vague descriptions.
+
+**How I felt:**  
+At this point I felt much more comfortable using Codex. I started to feel like I could focus more on designing the game and less on worrying about whether I knew how to write every part of the code myself.
+
+---
+
+### Journal Entry 3 — Near the End
+
+**What I tried:**  
+Near the end of the challenge, I completed a working questline inside Critter Catcher. I used Codex to help create the quest system and make it function inside the game. I also tested the rest of the game loop where players catch animals, store them in jars, sell them for coins, and then use those coins to buy better nets and jars.
+
+**What was confusing or frustrating:**  
+The hardest part was making the game feel like a connected system instead of a bunch of unrelated features. I had to think about how quickly players should earn coins, how rare animals should be, how much animals should sell for, and how upgrades should affect progression. It also took some trial and error to get the questline working the way I wanted.
+
+**What helped:**  
+Testing the game after each major change helped the most. I could immediately see if a feature made sense or if something needed to be adjusted. I also learned that Codex worked better when I gave it specific instructions instead of expecting it to understand the entire game from one short prompt.
+
+**How I felt:**  
+By the end I felt much more confident using Codex and also more confident in my ability to design a game. I realized that the tool was most useful when I treated it like something I had to direct rather than something that would automatically know exactly what I wanted.
+
+---
+
+## Step 4 — Complete Your Goal
+
+**Briefly describe what you made or did:**  
+I used Codex connected to Roblox Studio to work on my Roblox game called Critter Catcher. In the game, players use different nets to catch animals that spawn throughout the map. Animals can spawn at different rarity levels including common, uncommon, rare, epic, legendary, and mythic, and each animal can have a randomly generated weight.
+
+The game also includes a selling system where different animals have their own price per pound. Players sell the animals they catch for coins and use those coins to purchase better nets and better storage jars. The jars act as the player's inventory system, and upgraded jars allow players to hold more animals or larger animals.
+
+The game currently has one forest biome, where there can be up to 80 critters spawned at one time. I plan to add more biomes later with different animals and rarity distributions. I also completed a working questline during the challenge and plan to add additional quests in the future. Another feature I want to eventually add is a pet system.
+
+**Evidence of completed goal:**  
+Screenshots are located in 
+
+## Step 5 — Final Reflection
+
+Learning Codex was difficult at first because I had to learn how specific my instructions needed to be. Since Codex was connected directly to Roblox Studio, I could describe what I wanted and have it build or change things in the game, but it did not always understand exactly what I meant on the first try. The strategy that helped me adapt the fastest was breaking the game into smaller systems and giving Codex detailed rules for each one. For example, instead of simply asking it to make an animal spawning system, I could tell it that the forest should have a maximum of 80 critters, that animals should have different rarity levels, and that each animal should have a random weight. This worked because Codex had much clearer information to work with and I could test each system before moving on. At the beginning I felt a little overwhelmed because I was trying to understand both the tool and how I wanted the game to work at the same time. By the end, I felt much more confident because I had created several connected systems and completed a working questline. I learned that I work best with new tools when I can experiment with them directly and see immediate results. I also learned that using AI does not remove the need for problem solving because I still had to design the game, decide how the systems should work, test everything, and correct problems. In the future, I would use the same process with a new tool by starting with a clear goal, breaking the problem into smaller parts, testing often, and improving my instructions based on the results.
+Please note that I have only included screenshots of the game, if this is not sufficient evidence please reach out to me so I can add you as a collaborator to the game on Roblox Studios.
